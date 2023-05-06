@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Money Timer</string>
+    <string name="currency_symbol">€</string>
+    <string name="decimal_separator">.</string>
+    <string name="start_pause">Start/Pause</string>
+    <string name="stop">Stop</string>
+</resources>
